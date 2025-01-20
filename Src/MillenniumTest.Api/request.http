@@ -1,0 +1,9 @@
+@MillenniumTest_HostAddress = http://localhost:5239
+
+POST {{MillenniumTest_HostAddress}}/api/v2
+Accept: application/json
+Content-Type: application/json
+
+{ "UserId": "User1", "CardNumber": "Card11" }
+
+###

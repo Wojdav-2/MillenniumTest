@@ -1,0 +1,210 @@
+[
+    {
+        "ActionName": "Action1",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Active"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action2",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Inactive"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action3",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Restricted",
+            "Blocked",
+            "Expired",
+            "Closed"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action4",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Restricted",
+            "Blocked",
+            "Expired",
+            "Closed"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action5",
+        "CardTypes": [
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Restricted",
+            "Blocked",
+            "Expired",
+            "Closed"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action6",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [],
+        "RequiresPIN": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Blocked"
+        ],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action7",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [],
+        "RequiresPIN": [
+            "Blocked"
+        ],
+        "PINNotAllowed": [
+            "Ordered",
+            "Inactive",
+            "Active"
+        ]
+    },
+    {
+        "ActionName": "Action8",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Blocked"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action9",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active",
+            "Restricted",
+            "Blocked",
+            "Expired",
+            "Closed"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action10",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action11",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Inactive",
+            "Active"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action12",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    },
+    {
+        "ActionName": "Action13",
+        "CardTypes": [
+            "Prepaid",
+            "Debit",
+            "Credit"
+        ],
+        "CardStatuses": [
+            "Ordered",
+            "Inactive",
+            "Active"
+        ],
+        "RequiresPIN": [],
+        "PINNotAllowed": []
+    }
+]
